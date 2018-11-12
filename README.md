@@ -2,8 +2,7 @@
 test for windows
 根据：https://my.oschina.net/gaussik/blog/385697  博客进行搭建，主要任务是弄一个能用的，然后想一点点开始加功能，分页 Redis  MQ 卡夫卡 nginx
 （1）环境：Tomcat   Maven  JDK
-（2）创建WEB工程：IDEA开发，在new project ----》Maven -----》点对号 -----》引入org.apach...........webapp
-(创建工程GroupId和ArtifactId还有Version是你项目的唯一标识)
+（2）创建WEB工程：IDEA开发，在new project ----》Maven -----》点对号 -----》引入org.apach...........webapp(创建工程GroupId和ArtifactId还有Version是你项目的唯一标识)
 （3）创建resource文件夹
 
 （4）项目搭建pom文件找一个引入进来
